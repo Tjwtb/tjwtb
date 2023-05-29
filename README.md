@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working as a **Software Developer**
 
-- 🌱 I’m currently learning **Node, Dart, React**
+- 🌱 I’m currently learning **Node, Dart**
 
 - 📫 How to reach me **johanvazquez2704@gmail.com**
 
