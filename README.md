@@ -1,8 +1,4 @@
-![Header](./github-header-image.png)
-
-<h3 align="center">A passionate backend developer from México</h3>
-
-- 🌱 I’m currently learning **Typescript, Nest, Flutter**
+![Header](./github-header-image2.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
