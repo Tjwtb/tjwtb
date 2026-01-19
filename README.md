@@ -6,7 +6,6 @@ Software Developer
 
 I enjoy solving problems, building efficient solutions, and continuously learning to improve my craft. I’m driven by innovation, clean code, and constant growth.
 
-* 🌍  I'm based in I've been working
 * ✉️  You can contact me at [johangarciavqz@gmail.com](mailto:johangarciavqz@gmail.com)
 * 🧠  I'm currently learning Angular (hopefully)
 * ⚡  Pokemon Master since 2005
