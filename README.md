@@ -1,5 +1,5 @@
 # About Me:
-Developer with 4+ years of experience who genuinely enjoys solving problems and improving processes. I like building efficient, clean, and reliable solutions while always paying attention to quality and detail.<br><br>When I’m not coding, you’ll probably find me watching anime, playing games, making pixel art, or experimenting with game development.<br>
+Developer with 4+ years of experience who genuinely enjoys solving problems and improving processes. I like building efficient, clean, and reliable solutions while always paying attention to quality and detail.<br><br>Anime, videogames, pixel art, and game development enthusiast.<br>
 
 
 ## 🌐 Socials:
